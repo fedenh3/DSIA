@@ -23,6 +23,11 @@ Repositorio de prácticas y actividades realizadas en la materia Desarrollo de S
 - Creación y cálculo estadístico básico sobre DataFrames
 - Criterios de selección de herramientas para análisis de datos
 
+### 04 - Trabajo Práctico Integrador (TPI)
+- Carga y preparación del dataset de recorridos de **Ecobici 2024** (GCBA)
+- Limpieza y tratamiento de datos faltantes e inconsistentes
+- Creación y procesamiento de variables derivadas (franjas horarias, tipo de día, duraciones, viajes circulares) para análisis de hipótesis
+
 ## Autor
 
 Federico Nicolás Hurtado González

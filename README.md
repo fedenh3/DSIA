@@ -27,6 +27,7 @@ Repositorio de prácticas y actividades realizadas en la materia Desarrollo de S
 - Carga, limpieza y preparación del dataset de recorridos de **Ecobici 2024** (GCBA)
 - Análisis Exploratorio de Datos (EDA) completo y contraste de hipótesis de negocio
 - Implementación de modelos de **Machine Learning** aplicados al dataset de Ecobici
+- Conclusiones finales
 
 ## Autor
 

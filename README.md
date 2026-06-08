@@ -24,9 +24,9 @@ Repositorio de prácticas y actividades realizadas en la materia Desarrollo de S
 - Criterios de selección de herramientas para análisis de datos
 
 ### 04 - Trabajo Práctico Integrador (TPI)
-- Carga y preparación del dataset de recorridos de **Ecobici 2024** (GCBA)
-- Limpieza y tratamiento de datos faltantes e inconsistentes
-- Creación y procesamiento de variables derivadas (franjas horarias, tipo de día, duraciones, viajes circulares) para análisis de hipótesis
+- Carga, limpieza y preparación del dataset de recorridos de **Ecobici 2024** (GCBA)
+- Análisis Exploratorio de Datos (EDA) completo y contraste de hipótesis de negocio
+- Modelado predictivo de **Machine Learning** para clasificación y/o regresión sobre los recorridos
 
 ## Autor
 

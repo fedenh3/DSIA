@@ -26,7 +26,7 @@ Repositorio de prácticas y actividades realizadas en la materia Desarrollo de S
 ### 04 - Trabajo Práctico Integrador (TPI)
 - Carga, limpieza y preparación del dataset de recorridos de **Ecobici 2024** (GCBA)
 - Análisis Exploratorio de Datos (EDA) completo y contraste de hipótesis de negocio
-- Modelado predictivo de **Machine Learning** para clasificación y/o regresión sobre los recorridos
+- Implementación de modelos de **Machine Learning** aplicados al dataset de Ecobici
 
 ## Autor
 
